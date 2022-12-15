@@ -3,6 +3,9 @@
 
 # external requirements
 click
+pandas
+scikit-learn
+mlflow
 Sphinx
 coverage
 awscli
